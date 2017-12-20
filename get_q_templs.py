@@ -31,11 +31,6 @@ def get_q_templs(
 						})
 						break
 			i += 1
-
-		
-	#if len(rez) != kolvo:
-	#	raise ValueError("Kolvo!!! %s != %s", (len(rez), kolvo))
-	
 	return rez
 	
 if __name__ == '__main__':
